@@ -34,7 +34,7 @@ contract Checkpoint {
      */
     function play() public payable {
         // Ensure the player sends exactly 0.5 Ether
-        require(msg.value == 1 ether, "You must send exactly 1 ether to play");
+        require(msg.value == 2 ether, "You must send exactly 1 ether to play");
 
         // Calculate the new balance after the current deposit
         uint256 currentBalance = depositedEther + msg.value;

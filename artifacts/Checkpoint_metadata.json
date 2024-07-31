@@ -108,11 +108,11 @@
 	},
 	"sources": {
 		"Checkpoint.sol": {
-			"keccak256": "0x27290496dda161049d00e66238002bab45b8b122fface561e2579449351e15de",
+			"keccak256": "0x07edd14475ce9513cae1350fa8387d4b3edf956c7e083893c5b8873f1e84d178",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://12765163e1a850201d386b66517ea83d85966e017509428e80ef1f8f7a7da964",
-				"dweb:/ipfs/QmWtTzKqeLNEhw6k41rs3NKNYdXRy3N4MbZf644Z8rAXFw"
+				"bzz-raw://eed576e71e3a20317f4e5e55fb148c8d374364581dc0f5314e1a48c8e486337b",
+				"dweb:/ipfs/QmWPNWcXuAAksyQb3a1aEhyCphsF7vPAMitxxSp1bevwLt"
 			]
 		}
 	},
